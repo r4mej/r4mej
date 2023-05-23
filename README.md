@@ -1,21 +1,11 @@
 <h1 align="center">Hi 👋, I'm Ramej</h1>
 <h3 align="center">An aspiring game developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=r4mej&label=Profile%20views&color=0e75b6&style=flat" alt="r4mej" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=r4mej&label=Profile%20views&color=0e75b6&style=flat" alt="r4mej" /> </p>
 
 - 🔭 I’m currently working on **Games**
 
-- 🌱 I’m currently learning **java and python**
-
-- 👯 I’m looking to collaborate on **Games**
-
-- 🤝 I’m looking for help with **Games**
-
-- 💬 Ask me about **java**
-
-- 📫 How to reach me **r4v4g369@gmail.com**
-
-- ⚡ Fun fact **loves coffee**
+- 💬 Ask me about **Java**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -29,4 +19,7 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=r4mej&" alt="r4mej" /></p>
+  <p><a href="https://github.com/r4mej/github-readme-streak-stats">
+      <img allign="center" alt="r4mej's streak" src="https://streak-stats.demolab.com/?user=r4mej&theme=monokai-metallian&hide_border=true"/>
+      </a>
+  </p>
