@@ -3,7 +3,7 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=r4mej&label=Profile%20views&color=0e75b6&style=flat" alt="r4mej" /> </p>
 
-- 🔭 I’m currently working on **Games**
+- 🔭 I’m currently working on **Capstone 2**
 
 - 💬 Ask me about **Java**
 
